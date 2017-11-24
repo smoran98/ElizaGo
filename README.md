@@ -5,7 +5,7 @@
 
 
 
-INTRO
+# INTRO
 For my project, i created a chatbot web app in Go. You're allowed to visit a web app through a browser and it'll give back responses.
 
 
