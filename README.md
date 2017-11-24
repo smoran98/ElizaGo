@@ -3,17 +3,17 @@
 # G00338607
 # =======================================
 
-# INTRO
+
+
+INTRO
 For my project, i created a chatbot web app in Go. You're allowed to visit a web app through a browser and it'll give back responses.
 
 
 # FILES
-# data   
-# -responses.txt & substitutions.txt
+# data   -responses.txt & substitutions.txt
 contains what the chatbot's gonna say
 
-# static 
-# -eliza.png & index.html
+# static -eliza.png & index.html
 background for chatbot
 javascript,bootstrap,css,etc.(index.html)
 
@@ -29,6 +29,8 @@ cd ElizaGo-master
 using CMD/terminal, 
 go build eliza.go
 go run eliza.go
+
+
 
 # 2.Browser
 using any browser, type in the localhost
