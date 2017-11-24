@@ -24,7 +24,9 @@ reads and responds to user input
 # RUN
 # 1.GitClone / DownloadZiP
 git clone https://github.com/smoran98/ElizaGo.git
-or
+
+# or
+
 cd ElizaGo-master 
 using CMD/terminal, 
 go build eliza.go
